@@ -1,0 +1,7 @@
+cache
+__pycache__
+node_modules
+site-packages
+/AMD/CIM/Log
+/AMD/CIM/Reports
+/stable-diffusion-webui-amdgpu

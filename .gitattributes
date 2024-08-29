@@ -1,0 +1,13 @@
+AMD/ROCm/5.7/bin/clang.exe filter=lfs diff=lfs merge=lfs -text
+AMD/ROCm/5.7/bin/rocfft/rocfft_kernel_cache.db filter=lfs diff=lfs merge=lfs -text
+AMD/ROCm/5.7/bin/rocsolver.dll filter=lfs diff=lfs merge=lfs -text
+AMD/ROCm/5.7/bin/lld.exe filter=lfs diff=lfs merge=lfs -text
+WPy64-310111/t/pandoc.exe filter=lfs diff=lfs merge=lfs -text
+AMD/ROCm/5.7/bin/lld-link.exe filter=lfs diff=lfs merge=lfs -text
+AMD/ROCm/5.7/bin/amd_comgr0507.dll filter=lfs diff=lfs merge=lfs -text
+AMD/ROCm/5.7/bin/clang++.exe filter=lfs diff=lfs merge=lfs -text
+AMD/ROCm/5.7/bin/hiprt02001_nv.fatbin filter=lfs diff=lfs merge=lfs -text
+WPy64-310111/n/node.exe filter=lfs diff=lfs merge=lfs -text
+AMD/ROCm/5.7/bin/ld.lld.exe filter=lfs diff=lfs merge=lfs -text
+AMD/ROCm/5.7/bin/hiprt02001_5.7_amd.hipfb filter=lfs diff=lfs merge=lfs -text
+AMD/ROCm/5.7/bin/rocsparse.dll filter=lfs diff=lfs merge=lfs -text
